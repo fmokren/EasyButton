@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": 1,
+  "Name": "EasyButton",
+  "ComponentId": "a61e2a1a-faea-4db3-9235-2d6b749b5dfc",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "global.azure-devices-provisioning.net", "SphereDevelopment.azure-devices.net" ],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [ 0, 8, 9, 10, 15, 16, 17, 18, 19, 20, 12, 13 ],
+    "Uart": [],
+    "WifiConfig": true,
+    "NetworkConfig": false,
+    "SystemTime": false,
+    "DeviceAuthentication": "93ebfc52-547e-4e96-a910-d249ff30a7b4"
+  }
+}
